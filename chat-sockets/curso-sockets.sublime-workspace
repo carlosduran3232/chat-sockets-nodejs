@@ -1,0 +1,923 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"hea",
+				"head\tTag"
+			],
+			[
+				"fu",
+				"funcion"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"Proj",
+				"Project"
+			],
+			[
+				"fil",
+				"fileToUpload"
+			],
+			[
+				"Ht",
+				"HttpHeaders"
+			],
+			[
+				"a",
+				"not-allowed\tcursor"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Project",
+				"ProjectService"
+			],
+			[
+				"Proje",
+				"ProjectService"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tcolor"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"e",
+				"ErrorComponent"
+			],
+			[
+				"Ro",
+				"RouterModule"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"multi",
+				"multipartMiddleware"
+			],
+			[
+				"project",
+				"projectRemoved"
+			],
+			[
+				"fin",
+				"findByIdAndUpdate"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"us",
+				"usuario_guardado"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"nwe",
+				"new_user"
+			],
+			[
+				"s",
+				"stringify"
+			],
+			[
+				"car",
+				"cargaUsuario"
+			],
+			[
+				"zap",
+				"ZapatillaService"
+			],
+			[
+				"Zapatilla",
+				"ZapatillaService"
+			],
+			[
+				"Zapa",
+				"Zapatillas"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"de",
+				"descripcion"
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"tet",
+				"text-black"
+			],
+			[
+				"cambia",
+				"cambiaColor"
+			],
+			[
+				"nue",
+				"nuevo_color"
+			],
+			[
+				"ca",
+				"cambiaColor"
+			],
+			[
+				"d",
+				"dialogo"
+			],
+			[
+				"we",
+				"webkit-inline-box"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"elem",
+				"elemento"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"mo",
+				"mostrarFuchi"
+			],
+			[
+				"div",
+				"div_profesor"
+			],
+			[
+				"profe",
+				"profesor_string"
+			],
+			[
+				"prof",
+				"profesor_string"
+			],
+			[
+				"mos",
+				"mostrarJanet"
+			],
+			[
+				"usa",
+				"usuarios"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"use",
+				"userjs"
+			],
+			[
+				"local",
+				"localstorage"
+			],
+			[
+				"docu",
+				"document"
+			],
+			[
+				"t",
+				"trim"
+			],
+			[
+				"clase",
+				"claseRojo"
+			],
+			[
+				"rojo",
+				"rojo"
+			],
+			[
+				"divs",
+				"divsRojos"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"contenido",
+				"contenidoEnTexto"
+			],
+			[
+				"pos",
+				"Posicion"
+			],
+			[
+				"mostr",
+				"mostrar"
+			],
+			[
+				"TEX",
+				"text-gray"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"por",
+				"porPantalla"
+			],
+			[
+				"resultado",
+				"resultadoCMD"
+			],
+			[
+				"numero",
+				"numero1"
+			],
+			[
+				"nume",
+				"numero2"
+			],
+			[
+				"block",
+				"block-presta"
+			],
+			[
+				"compra",
+				"comprar-bolsas"
+			],
+			[
+				"inpu",
+				"input-group"
+			],
+			[
+				"cus",
+				"custom-control"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"inp",
+				"input-group"
+			],
+			[
+				"ju",
+				"justify-content-between"
+			],
+			[
+				"ali",
+				"align-items-center"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"bar",
+				"barra-lateral-izquierda"
+			],
+			[
+				"d-",
+				"d-md-block"
+			],
+			[
+				"tra",
+				"translateX()\ttransform"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"per",
+				"persona2"
+			],
+			[
+				"no",
+				"no-gutters"
+			],
+			[
+				"ini",
+				"inline-block\tdisplay"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"col",
+				"columna"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"im",
+				"img-fluid"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"MAX",
+				"max-width\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"jus",
+				"justify-content-center"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"ch",
+				"check"
+			],
+			[
+				"logo",
+				"logo_banclic"
+			],
+			[
+				"sa",
+				"satelite-opcion-uno"
+			],
+			[
+				"inner",
+				"inner-saldo"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"o",
+				"orbita"
+			],
+			[
+				"sat",
+				"satelite-opcion-tres"
+			],
+			[
+				"pla",
+				"planeta-opcion-uno"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server/index.js",
+			"settings":
+			{
+				"buffer_size": 1601,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 985,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/main.js",
+			"settings":
+			{
+				"buffer_size": 1328,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"preferences",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/master-js/curso-sockets/package.json",
+		"/C/master-js/proyecto-angular-profesor/proyecto-angular/src/app/services/project.service.ts",
+		"/C/master-js/proyecto-angular-profesor/proyecto-angular/src/app/components/detail/detail.component.html",
+		"/C/master-js/proyecto-angular-profesor/proyecto-angular/src/app/components/detail/detail.component.ts",
+		"/C/master-js/proyecto-angular-profesor/proyecto-angular/src/app/components/projects/projects.component.html",
+		"/C/master-js/proyecto-angular-profesor/proyecto-angular/src/app/app.routing.ts",
+		"/C/master-js/proyecto-angularfinal/src/app/components/projects/projects.component.ts",
+		"/C/master-js/proyecto-angularfinal/src/assets/css/style.css",
+		"/C/master-js/proyecto-angularfinal/src/app/components/projects/projects.component.html",
+		"/C/master-js/proyecto-angularfinal/angular.json",
+		"/C/master-js/proyecto-angularfinal/src/app/services/upload.service.ts",
+		"/C/master-js/proyecto-angularfinal/src/app/components/create/create.component.html",
+		"/C/master-js/backend/controllers/project.js",
+		"/C/master-js/backend/routes/project.js",
+		"/C/master-js/proyecto-angularfinal/src/app/components/create/create.component.ts",
+		"/C/master-js/proyecto-angularfinal/src/app/services/project.service.ts",
+		"/C/master-js/proyecto-angularfinal/src/app/app.module.ts",
+		"/C/master-js/proyecto-angularfinal/src/app/models/project.ts",
+		"/C/master-js/proyecto-angularfinal/src/app/services/global.ts",
+		"/C/master-js/proyecto-angularfinal/src/app/service/project.service.ts",
+		"/C/master-js/proyecto-angularfinal/src/app/service/global.ts",
+		"/C/master-js/proyecto-angularfinal/src/app/components/about/about.component.ts",
+		"/C/master-js/proyecto-angularfinal/src/app/components/about/about.component.html",
+		"/C/master-js/proyecto-angularfinal/src/app/app.component.html",
+		"/C/master-js/proyecto-angularfinal/src/app/app.routing.ts",
+		"/C/master-js/proyecto-angularfinal/src/assets/css",
+		"/C/master-js/backend/models/project.js",
+		"/C/master-js/backend/app.js",
+		"/C/master-js/backend/package.json",
+		"/C/master-js/backend/index.js",
+		"/C/master-js/backend/calculadora.js",
+		"/C/Users/Digitalbeat/Desktop/probando-animacion-automatica/index.html",
+		"/C/curso-angular/aprendiendo-angular/src/app/externo/externo.component.html",
+		"/C/curso-angular/aprendiendo-angular/src/app/externo/externo.component.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/service/peticiones.service.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/app.module.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/models/contacto.usuario.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/contacto/contacto.component.html",
+		"/C/curso-angular/aprendiendo-angular/src/app/contacto/contacto.component.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/service/zapatilla.service.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/app.routing.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/app.component.html",
+		"/C/curso-angular/aprendiendo-angular/src/app/pipes/calculadora.pipe.ts",
+		"/C/curso-angular/aprendiendo-angular/src/assets/styles.css",
+		"/C/curso-angular/aprendiendo-angular/src/app/zapatillas/zapatillas.component.html",
+		"/C/curso-angular/aprendiendo-angular/src/app/externo/externo.component.css",
+		"/C/curso-angular/aprendiendo-angular/src/app/zapatillas/zapatillas.component.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/home/home.component.html",
+		"/C/curso-angular/aprendiendo-angular/src/app/home/home.component.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/cursos/cursos.component.html",
+		"/C/curso-angular/aprendiendo-angular/src/app/cursos/cursos.component.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/videojuegos/videojuego.component.ts",
+		"/C/curso-angular/aprendiendo-angular/angular.json",
+		"/C/curso-angular/aprendiendo-angular/src/app/models/zapatilla.ts",
+		"/C/curso-angular/aprendiendo-angular/src/styles.css",
+		"/C/curso-angular/aprendiendo-angular/src/index.html",
+		"/C/curso-angular/aprendiendo-angular/node_modules/@angular/core/fesm5/core.js",
+		"/C/curso-angular/aprendiendo-angular/src/app/app.component.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/models/configuracion.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/videojuegos/videojuego.component.html",
+		"/C/curso-angular/aprendiendo-angular/src/app/cursos/cursos.component.spec.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/practicando/prueba.component.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/practicando/prueba.component.html",
+		"/C/curso-angular/aprendiendo-angular/src/app/prac/probando.html",
+		"/C/curso-angular/aprendiendo-angular/src/app/prac/probando.ts",
+		"/C/curso-angular/aprendiendo-angular/src/app/app.component.css",
+		"/C/curso-angular/aprendiendo-angular/src/app/videojuegos",
+		"/C/curso-angular/aprendiendo-angular/src/app/app.component.spec.ts",
+		"/C/Users/poo-y-typescript/index.html",
+		"/F/master-js/poo-y-typescript/js/02-hola-ts",
+		"/F/master-js/poo-y-typescript/index.html",
+		"/C/Proyectos/Celula_BlackPearl_Sprint24_IBM/config/TEST/redisenioPP.properties",
+		"/C/Proyectos/Celula_BlackPearl_Sprint24_IBM/config/PROD/redisenioPP.properties",
+		"/C/Proyectos/Celula_BlackPearl_Sprint24_IBM/MiEntelMobileWAR/WebContent/pages/prepago/include/prePowerNudge.html",
+		"/F/master-js/aprendiendo-jquery/js/06-interface.js",
+		"/F/master-js/aprendiendo-jquery/interface.html",
+		"/F/master-js/poo-y-typescript/js/01-clase-json.js",
+		"/C/Users/Digitalbeat/Desktop/wifi-mi-entelite/wifi.html",
+		"/F/master-js/aprendiendo-jquery/js/01-selectores.js",
+		"/F/master-js/aprendiendo-jquery/js/03-textos.js",
+		"/F/master-js/aprendiendo-jquery/js/04-efectos.js",
+		"/F/master-js/aprendiendo-jquery/js/02-eventos.js",
+		"/F/master-js/aprendiendo-jquery/textos.html",
+		"/F/master-js/aprendiendo-jquery/index.html",
+		"/F/master-js/aprendiendo-jquery/eventos.html",
+		"/F/platzi/Curso de animaciones para web/transiciones/interaccion.html",
+		"/F/master-js/curso-java-script/hola-mundo/index.html",
+		"/F/master-js/curso-java-script/hola-mundo/datos-externos.html",
+		"/F/master-js/curso-java-script/hola-mundo/js/38-fechas.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/36-fetch.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/37-try-catch.js",
+		"/F/master-js/curso-java-script/hola-mundo/pagina.html",
+		"/F/master-js/curso-java-script/hola-mundo/formulario.html",
+		"/F/master-js/curso-java-script/hola-mundo/js/35-ejercicio-localstorage.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/34-localstorage.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/33-json.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/31-timers.js",
+		"/F/master-js/curso-java-script/hola-mundo/externo.html",
+		"/F/master-js/curso-java-script/hola-mundo/js/32-ejercicio-dom.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/30-eventos.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/29-bom.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/28-dom.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/17-ejercicio7.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/16-ejercicio6.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/18-ejercicio8.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/19-funciones.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/20-parametro.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/21-funciones-anonimas.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/22-ambito.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/24-plantillas.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/27-ejercicio-array.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/23-funciones-texto.js",
+		"/C/Users/prepagolite.git/css/index.css",
+		"/F/master-js/curso-java-script/hola-mundo/js/15-ejercicio5.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/14-ejercicio4.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/12-ejercicio2.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/08-bucle-for.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/09-while.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/10-ventanas.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/13-ejercicio3.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/11-ejercicio1.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/07-switch.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/03-let-y-var.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/02-variable.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/04-constantes.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/05-tipos-de-datos.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/06-condicionales.js",
+		"/F/master-js/curso-java-script/hola-mundo/js/04-constantes"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1295,
+								1295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								726,
+								726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-sockets.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
